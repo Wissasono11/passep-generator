@@ -8,7 +8,7 @@ A modern password generator with **Neobrutalism design** - bold, colorful, and s
 
 ## 🚀 Live Demo
 
-**[🔗 Try it now!](https://wissasono11.github.io/password-generator/)**
+**[🔗 Password Generator](passep-generator.netlify.app)**
 
 ## ✨ Features
 
